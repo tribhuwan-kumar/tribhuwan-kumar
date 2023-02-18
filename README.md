@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tribhuwan-kumar
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning CSS and HTML
-- 💞️ I’m looking to collaborate on CSS
+- 👀 & I’m interested in web development & web designing 
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on JavaScript Project
 - 📫 Currently I'm not available 
 
 <!---

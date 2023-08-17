@@ -125,13 +125,19 @@ Hey My Name is tribhuwan, currentlt, i'm pursuing my bachelor's degree in Comput
 </p>
 </h1>
 
-<div align = "center">
+<!---<div align = "center">
 
 ![tribhuwan's Github Stats](https://github-readme-stats.vercel.app/api?username=tribhuwan-kumar&show_icons=true&title_color=2F81F7&icon_color=F9826C&text_color=E6EDF3&bg_color=0D1117)
 
 <hr>
 
+</div>--->
+
+<div style="font-family: 'Arial', sans-serif; font-size: 16px;">
+  ![tribhuwan's Github Status](https://github-readme-stats.vercel.app/api?username=tribhuwan-kumar&show_icons=true&title_color=bd3ef8&icon_color=F9826C&text_color=E6EDF3&bg_color=0D1117)
 </div>
+
+
 
 <h3>Thanks for Stopping by!! 😊</h3>
 

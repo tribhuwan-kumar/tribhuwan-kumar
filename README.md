@@ -111,17 +111,17 @@ Hey My Name is tribhuwan, currentlt, i'm pursuing my bachelor's degree in Comput
 
 
   <br/>
-  <a href="https://www.facebook.com/profile.php?id=100026103873514">
+  <!---<a href="https://www.facebook.com/profile.php?id=100026103873514">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>
+  </a>--->
  
-  <a href="https://www.instagram.com/parth._.27/">
+  <a href="https://www.instagram.com/tribhuwan.1">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://twitter.com/parthpatel_27">
+  <!---<a href="https://twitter.com/parthpatel_27">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
-  </a>
+  </a>--->
 </p>
 </h1>
 
@@ -137,7 +137,7 @@ Hey My Name is tribhuwan, currentlt, i'm pursuing my bachelor's degree in Comput
 
 
 ---
-⭐️ From [Parth Patel](https://github.com/tribhuwan-kumar) 
+<!---⭐️ From [tribhuwan](https://github.com/tribhuwan-kumar)--->
 
 
 <!---

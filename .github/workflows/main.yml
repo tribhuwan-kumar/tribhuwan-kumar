@@ -9,13 +9,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: tribhuwan-kumar
         uses: actions/checkout@v2
 
       - name: Generate Snake Game
         uses: Platane/snk@v3
         with:
-          github_user_name: your-github-username
+          github_user_name: tribhuwan-kumar
           outputs: |
             dist/github-snake.svg
             dist/github-snake.gif

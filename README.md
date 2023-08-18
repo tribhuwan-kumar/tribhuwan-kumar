@@ -2,7 +2,7 @@
 
 <div>
 
-#### a passionate programmer and open-source enthusiast. Here you'll find a collection of my projects and contributions. Feel free to explore, contribute, and connect with me.
+a passionate programmer and open-source enthusiast. Here you'll find a collection of my projects and contributions. Feel free to explore, contribute, and connect with me.
         
 </div>
 
@@ -45,8 +45,15 @@
 
 <div align= "center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tribhuwan-kumar&currStreakNum=ac4ed8&fire=red&sideLabels=c64aff&date_format=[Y.]n.j&theme=dark&hide_border=true&ring=ff6c53&currStreakLabel=E04173&card_width=470&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tribhuwan-kumar&currStreakNum=ac4ed8&fire=red&sideLabels=c64aff&date_format=[Y.]n.j&theme=dark&ring=ff6c53&currStreakLabel=E04173&card_width=470&background=0D1117&hide_border=true)](https://git.io/streak-stats)
 
+</div>
+
+<div>
+
+
+
+        
 </div>
 
 

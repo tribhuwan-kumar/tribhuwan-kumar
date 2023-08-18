@@ -1,5 +1,10 @@
+## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [tribhuwan!](https://github.com/tribhuwan-kumar) !!
 
+<div>
 
+#### a passionate programmer and open-source enthusiast. Here you'll find a collection of my projects and contributions. Feel free to explore, contribute, and connect with me.
+        
+</div>
 
 
 

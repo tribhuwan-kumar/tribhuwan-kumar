@@ -12,6 +12,12 @@ A passionate programmer and open-source enthusiast. Here you'll find a collectio
 
 </div>
 
+<div align="right">
+
+![pro_programmer](https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/01a74f4e-83a1-4a2d-8188-b428ddb5d733)
+
+
+</div>
 
 
 

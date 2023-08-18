@@ -1,6 +1,8 @@
+![for_header](https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/2282e321-3df3-4326-8ac8-822e4448a784)
+
 ## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [tribhuwan!](https://github.com/tribhuwan-kumar) !!
 
-<div>
+<div align="center">
 
 a passionate programmer and open-source enthusiast. Here you'll find a collection of my projects and contributions. Feel free to explore, contribute, and connect with me.
         

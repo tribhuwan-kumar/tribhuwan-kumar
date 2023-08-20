@@ -40,15 +40,21 @@ A passionate programmer and open-source enthusiast. Here you'll find a collectio
 
 
 
+### I know more about- </br>
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 
-
-
-
-
-
-
-
-
+### Some of the technologies I have worked with-</br>
+![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white)
+![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
+![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+![Neovim](http://img.shields.io/badge/-Neovim-000000?style=for-the-badge&logo=Neovim&logoColor=blue)
+</br></br></br></br>
 
 <div align = "center">
 

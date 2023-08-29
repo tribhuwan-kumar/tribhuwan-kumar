@@ -20,8 +20,11 @@ A passionate programmer and open-source enthusiast. Here you'll find a collectio
 </div>
 
 
+<!-- ![ubuntu-icon](https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/8aa83ab2-44ed-4f68-b4b7-0cdd6d5d58e6)
+![figma-icon](https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/ff9a0494-f38d-4e6b-866e-d208ebdaa629)
+![javascript](https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/69862fd6-fbab-4993-a4d0-c95758397bf6) -->
 
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
 
 
 

@@ -44,12 +44,71 @@ A passionate programmer and open-source enthusiast. Here you'll find a collectio
 
 
 ### I know more about- </br>
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <img height="75px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <p align="bottom"> HTML</p>
+      </td>
+      <td width="25%" align="center">
+        <img height="78px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <p align="bottom"> CSS</p>
+      </td>
+      <td width="25%" align="center">
+        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <p align="bottom"> Javascript</p>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+        <p align="bottom"> React</p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+        <p align="bottom"> Python</p>
+      </td>
+      <td width="25%" align="center">
+        <img height="72px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
+        <p align="bottom"> C</p>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg">
+        <p align="bottom"> MySql</p>
+      </td>
+     <td width="25%" align="center">
+        <img height="75px" src="https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/8aa83ab2-44ed-4f68-b4b7-0cdd6d5d58e6">
+        <p align="bottom"> Ubuntu</p>
+     </td>
+    </tr>
+    <tr valign="top">
+          <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <p align="bottom"> Git</p>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+        <p align="bottom"> VS code</p>
+      </td> 
+      <td width="25%" align="center">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
+        <p align="bottom"> Figma</p>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg">
+        <p align="bottom"> Neovim</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<!--![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript) -->
 
 ### Some of the technologies I have worked with-</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)

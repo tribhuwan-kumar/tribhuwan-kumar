@@ -15,7 +15,10 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
 
 <div align="center">
 
-![pro_programmer](https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/01a74f4e-83a1-4a2d-8188-b428ddb5d733)
+<!--![pro_programmer](https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/01a74f4e-83a1-4a2d-8188-b428ddb5d733)-->
+
+<img src="https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/0ab9e775-4ba0-4a96-8516-c3b136328b75" width="500px">
+<!--!![coding___mario](https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/0ab9e775-4ba0-4a96-8516-c3b136328b75)-->
 
 
 </div>

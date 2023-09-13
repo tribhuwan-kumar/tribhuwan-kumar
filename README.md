@@ -8,11 +8,11 @@
 
 <div align="center">
 
-A passionate programmer and open-source enthusiast. Here you'll find a collection of my projects and contributions. Feel free to explore, contribute, and connect   with me.
+#### A passionate programmer and open-source enthusiast. Here you'll find a collection of my projects and contributions. Feel free to explore, contribute, and connect   with me.
 
 </div>
 
-<div align="right">
+<div align="center">
 
 ![pro_programmer](https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/01a74f4e-83a1-4a2d-8188-b428ddb5d733)
 
@@ -44,7 +44,7 @@ A passionate programmer and open-source enthusiast. Here you'll find a collectio
 
 
 ### I know more about- </br>
-<table>
+<table align="center">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
@@ -110,13 +110,13 @@ A passionate programmer and open-source enthusiast. Here you'll find a collectio
 ![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript) -->
 
-### Some of the technologies I have worked with-</br>
+<!--### Some of the technologies I have worked with-</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![Neovim](http://img.shields.io/badge/-Neovim-000000?style=for-the-badge&logo=Neovim&logoColor=blue)
-</br></br></br></br>
+</br></br></br></br>-->
 
 <div align = "center">
 

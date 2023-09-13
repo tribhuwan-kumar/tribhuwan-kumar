@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [tribhuwan!](https://github.com/tribhuwan-kumar) !!
+# Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [tribhuwan!](https://github.com/tribhuwan-kumar)
 
 </div>
 

@@ -8,7 +8,8 @@
 
 <div align="center">
 
-#### A passionate programmer and open-source enthusiast. Here you'll find a collection of my projects and contributions. Feel free to explore, contribute, and connect   with me.
+#### A passionate programmer and open-source lover. 
+Here you'll find a collection of my projects and contributions. Feel free to explore, contribute, and connect   with me.
 
 </div>
 

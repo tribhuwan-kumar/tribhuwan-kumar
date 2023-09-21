@@ -2,52 +2,36 @@
 
 <div align="center">
 
-# Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [tribhuwan!](https://github.com/tribhuwan-kumar)
+# Hey there, I'm [tribhuwan!](https://github.com/tribhuwan-kumar)
 
 </div>
 
+
 <div align="center">
 
-#### A passionate programmer and open-source lover. 
+### A passionate programmer and open-source lover. 
 Here you'll find a collection of my projects and contributions. Feel free to explore, contribute, and connect   with me.
 
 </div>
 
 <div align="center">
 
-<!--![pro_programmer](https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/01a74f4e-83a1-4a2d-8188-b428ddb5d733)-->
+<img src="https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/0ab9e775-4ba0-4a96-8516-c3b136328b75" width="300px">
 
-<img src="https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/0ab9e775-4ba0-4a96-8516-c3b136328b75" width="500px">
-<!--!![coding___mario](https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/0ab9e775-4ba0-4a96-8516-c3b136328b75)-->
+</div>
+<hr>
+<div align="left">
 
+`💻 Currently, I'm learning Python` 
+<br>`🎓 Studying Computer science,
+Computer programming & Mathematics`
+<br>
+`😊 Love to do frontend!!`
+ 
 
 </div>
 
-
-<!-- ![ubuntu-icon](https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/8aa83ab2-44ed-4f68-b4b7-0cdd6d5d58e6)
-![figma-icon](https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/ff9a0494-f38d-4e6b-866e-d208ebdaa629)
-![javascript](https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/69862fd6-fbab-4993-a4d0-c95758397bf6) -->
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### I know more about- </br>
+### My tech stack and tools: <br>
 <table align="center">
   <tbody>
     <tr valign="top">
@@ -60,13 +44,14 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
         <p align="bottom"> CSS</p>
       </td>
       <td width="25%" align="center">
-        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="55px" src="https://cdn.svgporn.com/logos/javascript.svg">
         <p align="bottom"> Javascript</p>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+        <img height="60px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
         <p align="bottom"> React</p>
       </td>
+      <br>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -78,7 +63,7 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
         <p align="bottom"> C</p>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg">
+        <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg">
         <p align="bottom"> MySql</p>
       </td>
      <td width="25%" align="center">
@@ -107,20 +92,7 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
   </tbody>
 </table>
 <hr>
-<!--![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
-![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript) -->
-
-<!--### Some of the technologies I have worked with-</br>
-![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white)
-![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-![Neovim](http://img.shields.io/badge/-Neovim-000000?style=for-the-badge&logo=Neovim&logoColor=blue)
-</br></br></br></br>-->
+<br>
 
 <div align = "center">
 
@@ -135,26 +107,15 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
 </div>
 
 <div>
-
+<hr>
 <h3 align="center">My Other Accounts 📫 </h3>
-<br />
+<br>
 <p align="center">
-<a href="https://www.linkedin.com/in/tribhuwan-kumar-7b6049289/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/tribhuwan-kumar-7b6049289/"><img src="https://img.shields.io/badge/linkedin-%238500c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/tribhuwan.1"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/tribhuwan_1"><img src="https://img.shields.io/badge/Twitter-%230A0A0A.svg?&style=flat-square&logo=Twitter&logoColor=white"></a>
-
-
+<a href="https://twitter.com/tribhuwan_1"><img src="https://img.shields.io/badge/twitter-%238500c2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-
-
         
 </div>
 
 
-
-
-
-<!---
-tribhuwan-kumar/tribhuwan-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

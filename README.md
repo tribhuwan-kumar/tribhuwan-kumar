@@ -31,7 +31,8 @@ Computer programming & Mathematics`
 
 </div>
 
-### My tech stack and tools: <br>
+### My tech stacks and tools: 
+<br>
 <table align="center">
   <tbody>
     <tr valign="top">
@@ -73,19 +74,19 @@ Computer programming & Mathematics`
     </tr>
     <tr valign="top">
           <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img height="60px" src="https://cdn.svgporn.com/logos/git-icon.svg">
         <p align="bottom"> Git</p>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+        <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
         <p align="bottom"> VS code</p>
       </td> 
       <td width="25%" align="center">
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
+        <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
         <p align="bottom"> Figma</p>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg">
+        <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg">
         <p align="bottom"> Neovim</p>
       </td>
     </tr>

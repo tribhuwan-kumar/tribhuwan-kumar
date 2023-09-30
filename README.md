@@ -22,7 +22,7 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
 <hr>
 <div align="left">
 
-`💻 Currently, I'm learning Python` 
+`💻 Currently, I'm learning JavaScript` 
 <br>`🎓 Studying Computer science,
 Computer programming & Mathematics`
 <br>

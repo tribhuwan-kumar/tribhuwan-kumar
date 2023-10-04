@@ -102,8 +102,8 @@ Computer programming & Mathematics`
 </div>
 
 <div align= "center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tribhuwan-kumar&currStreakNum=ac4ed8&fire=red&sideLabels=c64aff&date_format=[Y.]n.j&theme=dark&ring=ff6c53&currStreakLabel=E04173&card_width=470&background=0D1117&hide_border=true)](https://git.io/streak-stats)
+ 
+ [![GitHub Streak](https://github-readme-streak-stats-silk-tau.vercel.app?user=tribhuwan-kumar&currStreakNum=ac4ed8&fire=red&sideLabels=c64aff&date_format=[Y.]n.j&theme=dark&ring=ff6c53&currStreakLabel=E04173&card_width=470&background=0D1117&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 

@@ -31,7 +31,7 @@ Computer programming & Mathematics`
 
 </div>
 
-## 🛠️ My tech stacks and tools: 
+## 🛠️ My tech stacks and tools 
 <br>
 <table align="center">
   <tbody>
@@ -123,13 +123,18 @@ Computer programming & Mathematics`
         
 </div>
 
+
 ## 🎵 Now playing
+
+<br>
 
 <div align= "center">
  
 [![Spotify](https://spotify-readme-six-beta.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/31q65pv2oibyco762iasacndfgeq)
 
 </div>
+
+<hr>
 
 ## 🎗️ Badges
 [![An image of @tribhuwankumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tribhuwankumar)](https://holopin.io/@tribhuwankumar)

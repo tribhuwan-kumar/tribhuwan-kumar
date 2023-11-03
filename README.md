@@ -1,4 +1,4 @@
-![for_header](https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/2282e321-3df3-4326-8ac8-822e4448a784)
+[![for_header](https://github.com/tribhuwan-kumar/tribhuwan-kumar/assets/118052427/2282e321-3df3-4326-8ac8-822e4448a784)](https://tribhuwan.me)
 
 <div align="center">
 
@@ -22,7 +22,7 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
 <hr>
 <div align="left">
 
-`💻 Currently, I'm learning JavaScript` 
+`💻 Currently, I'm learning Python` 
 <br>`🎓 Studying Computer science,
 Computer programming & Mathematics`
 <br>
@@ -31,7 +31,7 @@ Computer programming & Mathematics`
 
 </div>
 
-### My tech stacks and tools: 
+## 🛠️ My tech stacks and tools: 
 <br>
 <table align="center">
   <tbody>
@@ -95,21 +95,25 @@ Computer programming & Mathematics`
 <hr>
 <br>
 
+
+## 📊 My Stats
 <div align = "center">
 
-![tribhuwan's Github Status](https://github-readme-stats.vercel.app/api?username=tribhuwan-kumar&show_icons=true&title_color=bd3ef8&icon_color=F9826C&text_color=E6EDF3&bg_color=0D1117&hide_border=true)
+[![tribhuwan's Github Status](https://github-readme-stats.vercel.app/api?username=tribhuwan-kumar&show_icons=true&title_color=bd3ef8&icon_color=F9826C&text_color=E6EDF3&bg_color=0D1117&hide_border=true)](https://tribhuwan.me/)
 
 </div>
 
 <div align= "center">
  
- [![GitHub Streak](https://github-readme-streak-stats-silk-tau.vercel.app?user=tribhuwan-kumar&currStreakNum=ac4ed8&fire=red&sideLabels=c64aff&date_format=[Y.]n.j&theme=dark&ring=ff6c53&currStreakLabel=E04173&card_width=470&background=0D1117&hide_border=true)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats-silk-tau.vercel.app?user=tribhuwan-kumar&currStreakNum=ac4ed8&fire=red&sideLabels=c64aff&date_format=[Y.]n.j&theme=dark&ring=ff6c53&currStreakLabel=E04173&card_width=470&background=0D1117&hide_border=true)](https://tribhuwan.me/)
 
 </div>
 
-<div>
 <hr>
-<h3 align="center">My Other Accounts 📫 </h3>
+
+<div>
+
+## 📫 My Other Accounts
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/tribhuwan-kumar-7b6049289/"><img src="https://img.shields.io/badge/linkedin-%238500c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -119,4 +123,18 @@ Computer programming & Mathematics`
         
 </div>
 
+## 🎵 Now playing
 
+<div align= "center">
+ 
+[![Spotify](https://spotify-readme-six-beta.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/31q65pv2oibyco762iasacndfgeq)
+
+</div>
+
+## 🎗️ Badges
+
+<div align="center>
+
+[![An image of @tribhuwankumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tribhuwankumar)](https://holopin.io/@tribhuwankumar) 
+
+</div>

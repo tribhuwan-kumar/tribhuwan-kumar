@@ -123,6 +123,7 @@ Computer programming & Mathematics`
         
 </div>
 
+<hr>
 
 ## 🎵 Now playing
 

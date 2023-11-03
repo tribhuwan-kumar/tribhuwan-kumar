@@ -132,9 +132,5 @@ Computer programming & Mathematics`
 </div>
 
 ## 🎗️ Badges
-
-<div align="center>
-
 [![An image of @tribhuwankumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tribhuwankumar)](https://holopin.io/@tribhuwankumar)
 
-</div>

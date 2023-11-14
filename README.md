@@ -22,14 +22,12 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
 <hr>
 <div align="left">
 
-`💻 Currently, I'm learning Python` 
-<br>`🎓 Studying Computer science,
-Computer programming & Mathematics`
-<br>
-`😊 Love to do frontend!!`
+- 💻 Currently, I'm learning Python
+- 🎓 Studying Computer science, Computer programming & Mathematics
+- 😊 Love to do frontend!!
  
-
 </div>
+<hr>
 
 ## 🛠️ My tech stacks and tools 
 <br>

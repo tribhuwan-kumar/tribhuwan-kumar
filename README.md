@@ -118,7 +118,7 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
 <a href="https://instagram.com/tribhuwan.1"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitter.com/tribhuwan_1"><img src="https://img.shields.io/badge/twitter-%238500c2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-        
+
 </div>
 
 <hr>

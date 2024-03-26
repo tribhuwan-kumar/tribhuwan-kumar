@@ -129,7 +129,7 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
 
 <div align= "center">
  
-[![Spotify](https://spotify-readme-six-beta.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/31q65pv2oibyco762iasacndfgeq)
+[![Spotify](https://spotify-readme-six-beta.vercel.app/api)](https://open.spotify.com/user/31q65pv2oibyco762iasacndfgeq)
 
 </div>
 

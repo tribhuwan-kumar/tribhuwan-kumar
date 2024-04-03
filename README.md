@@ -5,9 +5,9 @@
 Here you'll find a collection of my projects and contributions. Feel free to explore, contribute, and connect with me.
 
 ### Things I love:
-- Arch Linux
-- Hardcore `VIM` lover
-- Known as `Termit`
+    Arch Linux
+    Hardcore VIM lover
+    Known as Termit
 
 <details>
 <summary>GitHub Profile Stats</summary>

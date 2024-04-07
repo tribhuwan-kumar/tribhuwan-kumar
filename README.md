@@ -8,6 +8,8 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
     Arch Linux
     Hardcore VIM lover
     Known as Termit
+    Cinephilic 
+    Altruist Memer
 
 <details>
 <summary>GitHub Profile Stats</summary>
@@ -16,13 +18,13 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
 ### 📊 My Stats
 <div align = "center">
 
-[![tribhuwan's Github Status](https://github-readme-stats.vercel.app/api?username=tribhuwan-kumar&show_icons=true&title_color=bd3ef8&icon_color=F9826C&text_color=E6EDF3&bg_color=0D1117&hide_border=true)](https://tribhuwan.me/)
+[![tribhuwan's Github Status](https://github-readme-stats.vercel.app/api?username=tribhuwan-kumar&show_icons=true&title_color=bd3ef8&icon_color=F9826C&text_color=E6EDF3&bg_color=0D1117&hide_border=true)](https://tribhuwan-kumar-github.io)
 
 </div>
 
 <div align= "center">
  
- [![GitHub Streak](https://github-readme-streak-stats-new-sooty.vercel.app/?user=tribhuwan-kumar&currStreakNum=ac4ed8&fire=red&sideLabels=c64aff&date_format=[Y.]n.j&theme=dark&ring=ff6c53&currStreakLabel=E04173&card_width=470&background=0D1117&hide_border=true)](https://tribhuwan.me/)
+ [![GitHub Streak](https://github-readme-streak-stats-new-sooty.vercel.app/?user=tribhuwan-kumar&currStreakNum=ac4ed8&fire=red&sideLabels=c64aff&date_format=[Y.]n.j&theme=dark&ring=ff6c53&currStreakLabel=E04173&card_width=470&background=0D1117&hide_border=true)](https://tribhuwan-kumar-github.io)
 
 </div>
 

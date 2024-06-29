@@ -18,7 +18,7 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
     cat /dev/port
     history | sh
     chmod -x $(which chmod) && cat /dev/random | sort
-    dd if=/dev/urandom of=$HOME bs=1G count=1000
+    dd if=/dev/urandom of=$HOME/target bs=1G count=1000
 ```
 
 <details>

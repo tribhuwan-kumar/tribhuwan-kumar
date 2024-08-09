@@ -12,7 +12,7 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
     Hardcore VIM lover
     Cinema
 
-#### Execute these:
+#### Never execute these:
 ```bash
     :(){ :|: & };:
     cat /dev/port
